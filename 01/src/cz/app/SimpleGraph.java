@@ -25,7 +25,7 @@ public class SimpleGraph extends Activity {
 
         // init example series data
         GraphViewSeries exampleSeries = new GraphViewSeries(new GraphViewData[] {
-                new GraphViewData(1, 2.0d)
+                new GraphViewData(1, 3.0d)
                 , new GraphViewData(2, 2.0d)
                 , new GraphViewData(2.5, 2.0d) // another frequency
                 , new GraphViewData(3, 2.5d)
